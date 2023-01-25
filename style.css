@@ -1,0 +1,32 @@
+div
+{
+    border-radius: 10px;
+    }
+/*#header
+{
+    position: fixed;
+    z-index: 1;
+    height:100px;
+    width: 98%;
+    background-color:aliceblue;
+    margin-bottom: 120px
+    
+    }*/
+#name{
+   
+    text-align: right;
+
+    
+}
+.img{
+position: fixed;
+
+
+}
+
+#right{
+    text-align: center;
+
+
+
+}
